@@ -1,2 +1,0 @@
-# irresponsiblelendingclaim
-My awesome repository
